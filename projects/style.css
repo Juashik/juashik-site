@@ -1,34 +1,36 @@
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:100,200,400');
-@import url('/style.css');
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:100,200,400");
+@import url("/style.css");
 
-body{
+body {
     background-color: black;
     color: white;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
 }
 
-h1, h2, h3{
+h1,
+h2,
+h3 {
     margin: 0.5em 0;
     font-weight: 400;
 }
 
-a{
+a {
     color: #ddd;
     font-weight: 600;
 }
 
-a:hover{
+a:hover {
     color: #fff;
 }
 
-p{
+p {
     margin-bottom: 2em;
 }
 
-.back{
+.back {
     font-size: 0.85em;
 }
 
-.back a{
+.back a {
     text-decoration: none;
 }
